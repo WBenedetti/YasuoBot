@@ -1,0 +1,20 @@
+{
+  "name": "yasuo",
+  "version": "1.0.0",
+  "description": "yasuo-quote-bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^12.2.0",
+    "ffmpeg": "0.0.4",
+    "opusscript": "0.0.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Will Benedetti",
+  "license": "ISC"
+}

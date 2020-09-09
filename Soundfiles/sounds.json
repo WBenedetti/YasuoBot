@@ -1,0 +1,111 @@
+{
+  "quotes": {
+	"death": "./Soundfiles/Yasuo.mp3",
+  	"running into my blade": "./Soundfiles/File0001.mp3",
+  	"easy way out": "./Soundfiles/File0002.mp3",
+  	"fools": "./Soundfiles/File0003.mp3",
+  	"you can try": "./Soundfiles/File0004.mp3",
+  	"just death": "./Soundfiles/File0005.mp3",
+  	"make it quick": "./Soundfiles/File0006.mp3",
+  	"dont start": "./Soundfiles/File0007.mp3",
+	"peace": "./Soundfiles/File0008.mp3",
+  	"never could": "./Soundfiles/File0009.mp3",
+  	"mistakes": "./Soundfiles/File0010.mp3",
+	"dishonoured": "./Soundfiles/File0011.mp3",
+	"no more running": "./Soundfiles/File0012.mp3",
+	"fate": "./Soundfiles/File0013.mp3",
+	"one blade": "./Soundfiles/File0014.mp3",
+	"not yet": "./Soundfiles/File0015.mp3",
+	"die": {
+          "1": "./Soundfiles/File0016.mp3",
+	  "2": "./Soundfiles/File0017.mp3",
+	  "3": "./Soundfiles/File0018.mp3",
+	  "4": "./Soundfiles/File0019.mp3"
+	},
+	"effort": {
+          "1": "./Soundfiles/File0020.mp3",
+	  "2": "./Soundfiles/File0021.mp3",
+	  "3": "./Soundfiles/File0022.mp3",
+	  "4": "./Soundfiles/File0023.mp3",
+	  "5": "./Soundfiles/File0054.mp3",
+	  "6": "./Soundfiles/File0055.mp3",
+	  "7": "./Soundfiles/File0056.mp3",
+	  "8": "./Soundfiles/File0057.mp3",
+	  "9": "./Soundfiles/File0065.mp3",
+	  "10": "./Soundfiles/File0066.mp3",
+	  "11": "./Soundfiles/File0067.mp3",
+	  "12": "./Soundfiles/File0068.mp3",
+	  "13": "./Soundfiles/File0082.mp3",
+	  "14": "./Soundfiles/File0083.mp3",
+	  "15": "./Soundfiles/File0084.mp3",
+	  "16": "./Soundfiles/File0085.mp3"
+	},
+	"swift strikes": "./Soundfiles/File0024.mp3",
+        "technique": "./Soundfiles/File0025.mp3",
+	"wind blade": "./Soundfiles/File0026.mp3",
+	"who taught you": "./Soundfiles/File0027.mp3",
+	"the blade": "./Soundfiles/File0028.mp3",
+	"handle my drink": "./Soundfiles/File0029.mp3",
+	"three": "./Soundfiles/File0030.mp3",
+	"laugh": {
+	  "1": "./Soundfiles/File0031.mp3",
+	  "2": "./Soundfiles/File0032.mp3",
+	  "3": "./Soundfiles/File0033.mp3",
+	  "4": "./Soundfiles/File0034.mp3"
+	},
+	"poor company": "./Soundfiles/File0035.mp3",
+	"my honour": "./Soundfiles/File0036.mp3",
+	"tomorrow": "./Soundfiles/File0037.mp3",
+	"follow the wind": "./Soundfiles/File0038.mp3",
+	"this blade": "./Soundfiles/File0039.mp3",
+	"virtue": "./Soundfiles/File0040.mp3",
+	"road to ruin": "./Soundfiles/File0041.mp3",
+	"sleep": "./Soundfiles/File0042.mp3",
+	"justice": "./Soundfiles/File0043.mp3",
+	"one step": "./Soundfiles/File0044.mp3",
+	"wanderer": "./Soundfiles/File0045.mp3",
+	"home": "./Soundfiles/File0046.mp3",
+	"never": "./Soundfiles/File0047.mp3",
+	"path": "./Soundfiles/File0048.mp3",
+	"honour": "./Soundfiles/File0049.mp3",
+	"will not forget": "./Soundfiles/File0050.mp3",
+	"story": "./Soundfiles/File0051.mp3",
+	"leaf": "./Soundfiles/File0052.mp3",
+	"dying": "./Soundfiles/File0053.mp3",
+	"Q": {
+          "1": "./Soundfiles/File0058.mp3",
+	  "2": "./Soundfiles/File0059.mp3",
+	  "3": "./Soundfiles/File0060.mp3",
+	  "4": "./Soundfiles/File0061.mp3"
+	},
+	"W": {
+          "1": "./Soundfiles/File0062.mp3",
+	  "2": "./Soundfiles/File0063.mp3",
+	  "3": "./Soundfiles/File0064.mp3"
+	},
+	"R": {
+          "1": "./Soundfiles/File0086.mp3",
+	  "2": "./Soundfiles/File0087.mp3",
+	  "3": "./Soundfiles/File0088.mp3"
+	},
+	"taunt": {
+          "1": "./Soundfiles/File0069.mp3",
+	  "2": "./Soundfiles/File0070.mp3",
+	  "3": "./Soundfiles/File0071.mp3"
+	},
+	"wuju": {
+          "1": "./Soundfiles/File0072.mp3",
+	  "2": "./Soundfiles/File0073.mp3"
+	},
+	"ninja": {
+          "1": "./Soundfiles/File0075.mp3",
+	  "2": "./Soundfiles/File0076.mp3",
+	  "3": "./Soundfiles/File0077.mp3"
+	},
+	"dance": "./Soundfiles/yasuo_dance.mp3",
+	"highnoon dance": "./Soundfiles/highnoonyasuo_dance",
+	"has a key": "./Soundfiles/File0060.mp3",
+	"face": "./Soundfiles/File0063.mp3",
+	"drop the beat": "./Soundfiles/YASMIX.mp3"
+  }
+}
