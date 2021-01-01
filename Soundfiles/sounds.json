@@ -17,13 +17,13 @@
 	"one blade": "./Soundfiles/File0014.mp3",
 	"not yet": "./Soundfiles/File0015.mp3",
 	"die": {
-          "1": "./Soundfiles/File0016.mp3",
+	  "1": "./Soundfiles/File0016.mp3",
 	  "2": "./Soundfiles/File0017.mp3",
 	  "3": "./Soundfiles/File0018.mp3",
 	  "4": "./Soundfiles/File0019.mp3"
 	},
 	"effort": {
-          "1": "./Soundfiles/File0020.mp3",
+	  "1": "./Soundfiles/File0020.mp3",
 	  "2": "./Soundfiles/File0021.mp3",
 	  "3": "./Soundfiles/File0022.mp3",
 	  "4": "./Soundfiles/File0023.mp3",
@@ -41,7 +41,7 @@
 	  "16": "./Soundfiles/File0085.mp3"
 	},
 	"swift strikes": "./Soundfiles/File0024.mp3",
-        "technique": "./Soundfiles/File0025.mp3",
+	"technique": "./Soundfiles/File0025.mp3",
 	"wind blade": "./Soundfiles/File0026.mp3",
 	"who taught you": "./Soundfiles/File0027.mp3",
 	"the blade": "./Soundfiles/File0028.mp3",
@@ -73,32 +73,32 @@
 	"leaf": "./Soundfiles/File0052.mp3",
 	"dying": "./Soundfiles/File0053.mp3",
 	"Q": {
-          "1": "./Soundfiles/File0058.mp3",
+	  "1": "./Soundfiles/File0058.mp3",
 	  "2": "./Soundfiles/File0059.mp3",
 	  "3": "./Soundfiles/File0060.mp3",
 	  "4": "./Soundfiles/File0061.mp3"
 	},
 	"W": {
-          "1": "./Soundfiles/File0062.mp3",
+	  "1": "./Soundfiles/File0062.mp3",
 	  "2": "./Soundfiles/File0063.mp3",
 	  "3": "./Soundfiles/File0064.mp3"
 	},
 	"R": {
-          "1": "./Soundfiles/File0086.mp3",
+	  "1": "./Soundfiles/File0086.mp3",
 	  "2": "./Soundfiles/File0087.mp3",
 	  "3": "./Soundfiles/File0088.mp3"
 	},
 	"taunt": {
-          "1": "./Soundfiles/File0069.mp3",
+	  "1": "./Soundfiles/File0069.mp3",
 	  "2": "./Soundfiles/File0070.mp3",
 	  "3": "./Soundfiles/File0071.mp3"
 	},
 	"wuju": {
-          "1": "./Soundfiles/File0072.mp3",
+	  "1": "./Soundfiles/File0072.mp3",
 	  "2": "./Soundfiles/File0073.mp3"
 	},
 	"ninja": {
-          "1": "./Soundfiles/File0075.mp3",
+	  "1": "./Soundfiles/File0075.mp3",
 	  "2": "./Soundfiles/File0076.mp3",
 	  "3": "./Soundfiles/File0077.mp3"
 	},
