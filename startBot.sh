@@ -1,1 +1,1 @@
-nodemon --inspect ./index.js
+npx nodemon --inspect ./index.js

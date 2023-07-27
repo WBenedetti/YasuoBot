@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /*
  * Copyright© Will Benedetti 2019-2020
  */

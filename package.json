@@ -10,7 +10,7 @@
     "opusscript": "0.0.7"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.12"
   },
   "scripts": {
     "test": "test"
